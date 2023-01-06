@@ -1,4 +1,4 @@
-from utils import reset_screen, new_deck, print_hand, hand_points, popup, validated_input
+from utility.utils import reset_screen, new_deck, print_hand, hand_points, popup, validated_input
 import random, time
 
 
