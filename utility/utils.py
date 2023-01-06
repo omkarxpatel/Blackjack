@@ -1,4 +1,4 @@
-from art import logo, hearts, spades, diamonds, clubs, hidden_face
+from utility.art import logo, hearts, spades, diamonds, clubs, hidden_face
 import os
 
 card_value = ["A"] + [str(num) for num in range(2, 11)] + ["J", "Q", "K"]
